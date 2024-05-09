@@ -1,4 +1,3 @@
-include 'spring_auth_server'
 include 'spring_auth_client'
 include 'spring_auth_server'
 
